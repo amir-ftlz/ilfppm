@@ -32,7 +32,11 @@ If you feel this repository is helpful, please cite the survey above.
 
 ![crypto](images/crypt.png)
 
+
 ### Anonymization
+
+![anon](images/anon.png)
+
 
 ### Differential Privacy
 
