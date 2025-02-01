@@ -10,7 +10,7 @@ This repository serves as a complement to the survey below.
 [**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**](https://arxiv.org/pdf/2404.07345) 
 
 ````bibtex
-@misc{fathalizadeh2024indoorlocationfingerprintingprivacy,
+@misc{ftlz2024ilfppm,
       title={Indoor Location Fingerprinting Privacy: A Comprehensive Survey}, 
       author={Amir Fathalizadeh and Vahideh Moghtadaiee and Mina Alishahi},
       year={2024},
