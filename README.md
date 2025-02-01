@@ -30,8 +30,9 @@ If you feel this repository is helpful, please cite the survey above.
 
 ### Cryptographic Models
 
+<p align="center">
 <img src="images/crypt.png" alt="Image 1" width="800"/>
-
+</p>
 
 ### Anonymization
 
@@ -44,10 +45,12 @@ If you feel this repository is helpful, please cite the survey above.
 
 ### Differential Privacy
 
+<p align="center">
 <img src="images/dp.png" alt="Image 1" width="800"/>
-
+</p>
 
 ### Federated Learning
 
+<p align="center">
 <img src="images/fl.png" alt="Image 1" width="800"/>
-
+</p>
