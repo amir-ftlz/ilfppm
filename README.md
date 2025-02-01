@@ -40,4 +40,7 @@ If you feel this repository is helpful, please cite the survey above.
 
 ### Differential Privacy
 
+<img src="images/anon.png" alt="Image 1" width="300"/>
+
+
 ### Federated Learning
