@@ -9,6 +9,20 @@ This repository serves as a complement to the survey below.
 
 [**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**](https://arxiv.org/pdf/2404.07345) 
 
+````bibtex
+@misc{fathalizadeh2024indoorlocationfingerprintingprivacy,
+      title={Indoor Location Fingerprinting Privacy: A Comprehensive Survey}, 
+      author={Amir Fathalizadeh and Vahideh Moghtadaiee and Mina Alishahi},
+      year={2024},
+      eprint={2404.07345},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2404.07345}, 
+}
+````
+
+If you feel this repository is helpful, please cite the survey above.
+
 ## Quick Links
 **Papers sorted by privacy-preserving mechanism:** | [Cryptographic Models](#cryptographic-models) | [Anonymization](#anonymization) | [Differential Privacy](#differential-privacy) | [Federated Learning](#federated-learning) | 
 
