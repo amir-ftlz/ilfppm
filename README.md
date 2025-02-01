@@ -34,6 +34,11 @@ If you feel this repository is helpful, please cite the survey above.
 <img src="images/crypt.png" alt="Image 1" width="800"/>
 </p>
 
+| Year   | Title |  Privacy Method | Localization Method   | Paper Link  | 
+|-------|--------|--------|--------|-----------|
+|test|test|test|test|test|
+
+
 ### Anonymization
 
 <p align="center">
