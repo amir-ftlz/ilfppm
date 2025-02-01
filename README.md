@@ -35,7 +35,11 @@ If you feel this repository is helpful, please cite the survey above.
 
 ### Anonymization
 
-![anon](images/anon.png)
+<p align="center">
+  <img src="images/anon.png" alt="Image 1" width="400"/>
+  <img src="images/anon2.png" alt="Image 2" width="400"/>
+</p>
+
 
 
 ### Differential Privacy
