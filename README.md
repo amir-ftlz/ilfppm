@@ -30,6 +30,8 @@ If you feel this repository is helpful, please cite the survey above.
 
 ### Cryptographic Models
 
+![crypto](images/crypt.png)
+
 ### Anonymization
 
 ### Differential Privacy
