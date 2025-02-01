@@ -30,21 +30,24 @@ If you feel this repository is helpful, please cite the survey above.
 
 ### Cryptographic Models
 
-![crypto](images/crypt.png)
+<img src="images/crypt.png" alt="Image 1" width="800"/>
 
 
 ### Anonymization
 
 <p align="center">
   <img src="images/anon.png" alt="Image 1" width="400"/>
-  <img src="images/anon2.png" alt="Image 2" width="380"/>
+  <img src="images/anon2.png" alt="Image 2" width="378"/>
 </p>
 
 
 
 ### Differential Privacy
 
-<img src="images/anon.png" alt="Image 1" width="300"/>
+<img src="images/dp.png" alt="Image 1" width="800"/>
 
 
 ### Federated Learning
+
+<img src="images/fl.png" alt="Image 1" width="800"/>
+
