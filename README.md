@@ -10,7 +10,7 @@ This repository serves as a complement to the survey below.
 [**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**](https://arxiv.org/pdf/2404.07345) 
 
 ## Quick Links
-**Papers sorted by privacy-preserving mechanism:** | [Cryptographic Models](#Cryptographic-Models) | [Anonymization](#Anonymization) | [Differential Privacy](#Differential-Privacy) | [Federated Learning](#Federated-Learning) | 
+**Papers sorted by privacy-preserving mechanism:** | [Cryptographic Models](#cryptographic-models) | [Anonymization](#anonymization) | [Differential Privacy](#differential-privacy) | [Federated Learning](#federated-learning) | 
 
 ## ILFPPM
 
