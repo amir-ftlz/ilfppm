@@ -28,7 +28,7 @@ If you feel this repository is helpful, please cite the survey above.
 
 ## Indoor Location Fingerprinting Privacy Preserving Mechanism (ILFPPM)
 
-### Cryptographic Models
+### Cryptographic Models [[Back to Top](#Indoor Location Fingerprinting Privacy: A Comprehensive Survey)]
 
 <p align="center">
 <img src="images/crypt.png" alt="Image 1" width="800"/>
@@ -56,7 +56,7 @@ If you feel this repository is helpful, please cite the survey above.
 
 
 
-### Anonymization
+### Anonymization [[Back to Top](#Indoor Location Fingerprinting Privacy: A Comprehensive Survey)]
 
 <p align="center">
   <img src="images/anon.png" alt="Image 1" width="400"/>
@@ -76,7 +76,7 @@ If you feel this repository is helpful, please cite the survey above.
 | 2022 | **On the privacy protection of indoor location dataset using anonymization** | $k$-anonymity, $\ell$-diversity, $t$-closeness, ($\alpha,k$)-anonymity, $\delta$-presence | - | Simulated, CRI, UJIIndoorLoc |
 
 
-### Differential Privacy
+### Differential Privacy [[Back to Top](#Indoor Location Fingerprinting Privacy: A Comprehensive Survey)]
 
 <p align="center">
 <img src="images/dp.png" alt="Image 1" width="800"/>
@@ -100,7 +100,7 @@ If you feel this repository is helpful, please cite the survey above.
 
 
 
-### Federated Learning
+### Federated Learning [[Back to Top](#Indoor Location Fingerprinting Privacy: A Comprehensive Survey)]
 
 <p align="center">
 <img src="images/fl.png" alt="Image 1" width="800"/>
