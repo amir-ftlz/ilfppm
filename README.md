@@ -66,6 +66,17 @@ If you feel this repository is helpful, please cite the survey above.
   <img src="images/anon2.png" alt="Image 2" width="379"/>
 </p>
 
+| Year | Paper | Privacy Method | Localization | Dataset |
+|------|-------|---------------|--------------|---------|
+| 2012 | \cite{Anon-Kim2012} | $k$-anonymity, Hierarchical graph | - | Simulated |
+| 2014 | \cite{Anon-Zhu2014} | $k$-anonymity, Cloaking, Obfuscation | kNN, SVM | Simulated |
+| 2015 | \cite{Anon-Konstantinidis2015} | $k$-anonymity, Bloom Filter | - | Simulated, CSUCY, KIOSUCY, Crawdad |
+| 2016 | \cite{Anon-Kim2016} | $k$-anonymity, $\ell$-diversity, Hierarchical graph | kNN | Simulated |
+| 2018 | \cite{Anon-Alikhani2018} | Hilbert Curve, $k$-anonymity | NN | Simulated |
+| 2020 | \cite{Anon-Sazdar2020} | $k$-anonymity, Randomization, Permutation | kNN | Simulated, CRI |
+| 2020 | \cite{Anon-Zhao2020} | $k$-anonymity | kNN | Simulated |
+| 2021 | \cite{Anon-Sazdar2021} | $k$-anonymity, Hilbert Curve, Bloom Filter | kNN | Simulated, CRI, CSUCY, KIOSUCY, PosData |
+| 2022 | \cite{FATHALIZADEH2022102665} | $k$-anonymity, $\ell$-diversity, $t$-closeness, ($\alpha,k$)-anonymity, $\delta$-presence | - | Simulated, CRI, UJIIndoorLoc |
 
 
 ### Differential Privacy
