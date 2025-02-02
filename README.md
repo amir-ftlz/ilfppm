@@ -8,7 +8,7 @@ A curated list of papers on privacy-preserving indoor fingerprinting localizatio
 Papers are sorted by the proposed privacy-preserving mechanism. 
 These include Cryptographic Models, Anonymization, Differential Privacy, and Federated Learning.
 
-This repository serves as a complement to the survey below.
+<!-- This repository serves as a complement to the survey below.
 
 [**Indoor Location Fingerprinting Privacy: A Comprehensive Survey**](https://arxiv.org/pdf/2404.07345) 
 
@@ -24,7 +24,7 @@ This repository serves as a complement to the survey below.
 }
 ````
 
-If you feel this repository is helpful, please cite the survey above.
+If you feel this repository is helpful, please cite the survey above. -->
 
 ## Quick Links
 **Papers sorted by privacy-preserving mechanism:** | [Cryptographic Models](#cryptographic-models) | [Anonymization](#anonymization) | [Differential Privacy](#differential-privacy) | [Federated Learning](#federated-learning) | 
