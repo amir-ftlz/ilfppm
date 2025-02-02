@@ -1,4 +1,4 @@
-[//] # Indoor Location Fingerprinting Privacy: A Comprehensive Survey
+[//]: # Indoor Location Fingerprinting Privacy: A Comprehensive Survey
 # A Survey and Future Outlook on Indoor Location Fingerprinting Privacy Preservation
 
 A curated list of papers on privacy-preserving indoor fingerprinting localization.
