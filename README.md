@@ -39,20 +39,20 @@ If you feel this repository is helpful, please cite the survey above. -->
 |------|-------|---------------|--------------|---------|---------|
 | 2014 | **Achieving privacy preservation in WiFi fingerprint-based localization** | Paillier | kNN | Simulated, Private | [Link](https://ieeexplore.ieee.org/document/6848178), [pdf](https://nsec.sjtu.edu.cn/publications/2014/Achieving%20Privacy%20Preservation%20in%20WiFi%20Fingerprint-Based%20Localization.pdf)|
 | 2015 | **A Privacy-Preserving Fuzzy Localization Scheme with CSI Fingerprint** | Paillier | Fuzzy Logic | CRAWDAD | [Link](https://ieeexplore.ieee.org/document/7417168), [pdf](https://cse.usf.edu/~yliu21/webresources/?n=pdf/FuzzyGC15.pdf) |
-| 2016 | **Privacy-Preserving Wi-Fi Fingerprinting Indoor Localization** | Paillier | SVM | Private | -|
-| 2018 | **The Death and Rebirth of Privacy-Preserving WiFi Fingerprint Localization with Paillier Encryption** | Paillier, Garbled Circuit | - | - | -|
-| 2018 | **Modeling Privacy in WiFi Fingerprinting Indoor Localization** | Paillier, Garbled Circuit | - | Simulated | -|
-| 2018 | **Received Signal Strength Quantization for Secure Indoor Positioning via Fingerprinting** | Paillier, Garbled Circuit | kNN | Private, JUIndoorLoc, Tampere Uni | -|
-| 2019 | **Server-Side Fingerprint-Based Indoor Localization Using Encrypted Sorting** | Paillier, DGK Algorithm | kNN | Colombia Uni | -|
-| 2019 | **On Location Privacy in Fingerprinting-Based Indoor Positioning System: An Encryption Approach** | ABY Framework, Arithmetic Sharing, Boolean Sharing, Yao's Sharing | kNN | Simulated, Private | -|
-| 2019 | **PILOT: Practical Privacy-Preserving Indoor Localization Using OuTsourcing** | Trusted Third Party | kNN | Simulated | -|
-| 2019 | **A Privacy-Preserving Protocol for Indoor Wi-Fi Localization** | Paillier, Spatial Bloom | kNN | - | -|
-| 2020 | **Lightweight Privacy-Preserving Scheme in Wi-Fi Fingerprint-Based Indoor Localization** | Paillier | kNN | Private | -| 
-| 2020 | **Practical Privacy Protection Scheme In WiFi Fingerprint-based Localization** | Expectation-maximization, Bayes Network | kNN | UJIIndoorLoc | -|
-| 2021 | **Practical Privacy-Preserving Indoor Localization Based on Secure Two-Party Computation** | Paillier, One Time Pad, Garbled Circuits | kNN | Simulated, Uni of Helsinki | -|
-| 2022 | **FAPRIL: Towards Faster Privacy-Preserving Fingerprint-Based Localization** | Arithmetic Sharing, Delta Sharing, Yao's Sharing | kNN | Simulated | -|
-| 2022 | **PriHorus: Privacy-Preserving RSS-Based Indoor Positioning** | Paillier | MLE | Private | -|
-| 2024 | **Privacy-preserving indoor localization based on inner product encryption in a cloud environment** | Inner Product Encryption | kNN | Simulated, JUIndoorLoc | -|
+| 2016 | **Privacy-Preserving Wi-Fi Fingerprinting Indoor Localization** | Paillier | SVM | Private | [Link](https://link.springer.com/chapter/10.1007/978-3-319-44524-3_13)|
+| 2018 | **The Death and Rebirth of Privacy-Preserving WiFi Fingerprint Localization with Paillier Encryption** | Paillier, Garbled Circuit | - | - | [Link](https://ieeexplore.ieee.org/document/8486221)|
+| 2018 | **Modeling Privacy in WiFi Fingerprinting Indoor Localization** | Paillier, Garbled Circuit | - | Simulated | [Link](https://link.springer.com/chapter/10.1007/978-3-030-01446-9_19), [pdf](https://helda.helsinki.fi/server/api/core/bitstreams/e8276b94-9cb4-4fb9-9362-7245bc4fd938/content)|
+| 2018 | **Received Signal Strength Quantization for Secure Indoor Positioning via Fingerprinting** | Paillier, Garbled Circuit | kNN | Private, JUIndoorLoc, Tampere Uni | [Link](https://ieeexplore.ieee.org/document/8440910), [pdf](https://encrypto.de/papers/RYTLJSL18.pdf)|
+| 2019 | **Server-Side Fingerprint-Based Indoor Localization Using Encrypted Sorting** | Paillier, DGK Algorithm | kNN | Colombia Uni | [Link](https://ieeexplore.ieee.org/abstract/document/9059316), [pdf](https://arxiv.org/pdf/2008.11612)|
+| 2019 | **On Location Privacy in Fingerprinting-Based Indoor Positioning System: An Encryption Approach** | ABY Framework, Arithmetic Sharing, Boolean Sharing, Yao's Sharing | kNN | Simulated, Private | [Link](https://dl.acm.org/doi/10.1145/3347146.3359081)|
+| 2019 | **PILOT: Practical Privacy-Preserving Indoor Localization Using OuTsourcing** | Trusted Third Party | kNN | Simulated | [Link](https://ieeexplore.ieee.org/document/8806758), [pdf](https://encrypto.de/papers/JLLRSTY19.pdf)|
+| 2019 | **A Privacy-Preserving Protocol for Indoor Wi-Fi Localization** | Paillier, Spatial Bloom | kNN | - | [Link](https://dl.acm.org/doi/10.1145/3310273.3323400), [pdf](https://cora.ucc.ie/server/api/core/bitstreams/cb653511-77df-4b5d-b4a0-7c4180eae688/content)|
+| 2020 | **Lightweight Privacy-Preserving Scheme in Wi-Fi Fingerprint-Based Indoor Localization** | Paillier | kNN | Private | [Link](https://ieeexplore.ieee.org/document/9040904)| 
+| 2020 | **Practical Privacy Protection Scheme In WiFi Fingerprint-based Localization** | Expectation-maximization, Bayes Network | kNN | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9260101)|
+| 2021 | **Practical Privacy-Preserving Indoor Localization Based on Secure Two-Party Computation** | Paillier, One Time Pad, Garbled Circuits | kNN | Simulated, Uni of Helsinki | [Link](https://ieeexplore.ieee.org/document/9079655), [pdf](https://helda.helsinki.fi/server/api/core/bitstreams/4cc14b4b-6f3f-4350-b368-99df5cfe8e57/content)|
+| 2022 | **FAPRIL: Towards Faster Privacy-Preserving Fingerprint-Based Localization** | Arithmetic Sharing, Delta Sharing, Yao's Sharing | kNN | Simulated | [Link](https://www.scitepress.org/PublishedPapers/2022/112635/), [pdf](https://www.scitepress.org/PublishedPapers/2022/112635/112635.pdf)|
+| 2022 | **PriHorus: Privacy-Preserving RSS-Based Indoor Positioning** | Paillier | MLE | Private | [Link](https://ieeexplore.ieee.org/document/9839103)|
+| 2024 | **Privacy-preserving indoor localization based on inner product encryption in a cloud environment** | Inner Product Encryption | kNN | Simulated, JUIndoorLoc | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0950705121011126)|
 
 
 
