@@ -63,17 +63,17 @@ If you feel this repository is helpful, please cite the survey above. -->
   <img src="images/anon2.png" alt="Image 2" width="379"/>
 </p>
 
-| Year | Paper | Privacy Method | Localization | Dataset |
-|------|-------|---------------|--------------|---------|
-| 2012 | **$K$-Anonymity in Indoor Spaces through Hierarchical Graphs** | $k$-anonymity, Hierarchical graph | - | Simulated |
-| 2014 | **Location Privacy in Buildings: A 3-Dimensional $K$-Anonymity Model** | $k$-anonymity, Cloaking, Obfuscation | kNN, SVM | Simulated |
-| 2015 | **Privacy-Preserving Indoor Localization on Smartphones** | $k$-anonymity, Bloom Filter | - | Simulated, CSUCY, KIOSUCY, Crawdad |
-| 2016 | **Location $K$-Anonymity in Indoor Spaces** | $k$-anonymity, $\ell$-diversity, Hierarchical graph | kNN | Simulated |
-| 2018 | **A Privacy Preserving Method for Crowdsourcing in Indoor Fingerprinting Localization** | Hilbert Curve, $k$-anonymity | NN | Simulated |
-| 2020 | **A Low-complexity trajectory privacy preservation approach for indoor fingerprinting positioning systems** | $k$-anonymity, Randomization, Permutation | kNN | Simulated, CRI |
-| 2020 | **Preserving Privacy in WiFi Localization With Plausible Dummy Locations** | $k$-anonymity | kNN | Simulated |
-| 2021 | **Privacy preserving in indoor fingerprint localization and radio map expansion** | $k$-anonymity, Hilbert Curve, Bloom Filter | kNN | Simulated, CRI, CSUCY, KIOSUCY, PosData |
-| 2022 | **On the privacy protection of indoor location dataset using anonymization** | $k$-anonymity, $\ell$-diversity, $t$-closeness, ($\alpha,k$)-anonymity, $\delta$-presence | - | Simulated, CRI, UJIIndoorLoc |
+| Year | Paper | Privacy Method | Localization | Dataset | Paper Link |
+|------|-------|---------------|--------------|---------|---------|
+| 2012 | **$K$-Anonymity in Indoor Spaces through Hierarchical Graphs** | $k$-anonymity, Hierarchical graph | - | Simulated | [Link](https://dl.acm.org/doi/10.1145/2442616.2442622)|
+| 2014 | **Location Privacy in Buildings: A 3-Dimensional $K$-Anonymity Model** | $k$-anonymity, Cloaking, Obfuscation | kNN, SVM | Simulated | [Link](https://ieeexplore.ieee.org/document/7051770)|
+| 2015 | **Privacy-Preserving Indoor Localization on Smartphones** | $k$-anonymity, Bloom Filter | - | Simulated, CSUCY, KIOSUCY, Crawdad | [Link](https://ieeexplore.ieee.org/document/7118199)|
+| 2016 | **Location $K$-Anonymity in Indoor Spaces** | $k$-anonymity, $\ell$-diversity, Hierarchical graph | kNN | Simulated | [Link](https://link.springer.com/article/10.1007/s10707-015-0241-y)|
+| 2018 | **A Privacy Preserving Method for Crowdsourcing in Indoor Fingerprinting Localization** | Hilbert Curve, $k$-anonymity | NN | Simulated | [Link](https://ieeexplore.ieee.org/document/8566402)|
+| 2020 | **A Low-complexity trajectory privacy preservation approach for indoor fingerprinting positioning systems** | $k$-anonymity, Randomization, Permutation | kNN | Simulated, CRI | [Link](https://www.sciencedirect.com/science/article/abs/pii/S2214212619304338), [pdf](https://www.researchgate.net/publication/341394589_A_Low-complexity_trajectory_privacy_preservation_approach_for_indoor_fingerprinting_positioning_systems)|
+| 2020 | **Preserving Privacy in WiFi Localization With Plausible Dummy Locations** | $k$-anonymity | kNN | Simulated | [Link](https://ieeexplore.ieee.org/document/9130897)|
+| 2021 | **Privacy preserving in indoor fingerprint localization and radio map expansion** | $k$-anonymity, Hilbert Curve, Bloom Filter | kNN | Simulated, CRI, CSUCY, KIOSUCY, PosData | [Link](https://link.springer.com/article/10.1007/s12083-020-00950-1), [pdf](https://repository.uel.ac.uk/download/cae3581a1c556150ac25bb0e46752385696c210abc1bf7d674133cfab88eedf6/3084038/Main_Manuscript-1.pdf)|
+| 2022 | **On the privacy protection of indoor location dataset using anonymization** | $k$-anonymity, $\ell$-diversity, $t$-closeness, ($\alpha,k$)-anonymity, $\delta$-presence | - | Simulated, CRI, UJIIndoorLoc | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0167404822000645), [pdf](https://www.researchgate.net/publication/358792446_On_the_Privacy_Protection_of_Indoor_Location_Dataset_using_Anonymization)|
 
 
 ### Differential Privacy [[Back to Top](#a-survey-and-future-outlook-on-indoor-location-fingerprinting-privacy-preservation)] 
