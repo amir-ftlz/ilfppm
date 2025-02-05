@@ -82,21 +82,21 @@ If you feel this repository is helpful, please cite the survey above. -->
 <img src="images/dp.png" alt="Image 1" width="800"/>
 </p>
 
-| Year | Paper Title | Privacy Method | Localization | Dataset |
-|------|-------------|----------------|--------------|---------|
-| 2016 | **Privacy-preserving crowdsourced site survey in WiFi fingerprint-based localization** | CDP, Paillier | kNN | Private |
-| 2017 | **CollabLoc: Privacy-Preserving Multi-Modal Localization via Collaborative Information Fusion** | LDP, Two-step classifier | - | Multi Building, Rutgers Uni |
-| 2017 | **WiFi fingerprint releasing for indoor localization based on differential privacy** | LDP, Delaunay triangulation, Range generalization | - | Simulated |
-| 2018 | **Application of Local Differential Privacy to Collection of Indoor Positioning Data** | LDP, Randomized Response | - | Simulated, Sangmyung Uni |
-| 2018 | **DP3: A Differential Privacy-Based Privacy-Preserving Indoor Localization Mechanism** | CDP, AP fuzzification, Finger Clustering, Finger Permutation | - | PosData |
-| 2018 | **P3-LOC: A Privacy-Preserving Paradigm-Driven Framework for Indoor Localization** | LDP, Segmenting Data, $k$-anonymity | - | Private |
-| 2019 | **Workload-Aware Indoor Positioning Data Collection via Local Differential Privacy** | LDP, Randomized Encoding | - | Simulated, Beijing Taxi, Trajectory |
-| 2022 | **Hide me Behind the Noise: Local Differential Privacy for Indoor Location Privacy** | LDP, Local Hashing, Unary Encoding, Histogram Encoding, Random response, RAPPOR | - | JUIndoorLoc, CRI |
-| 2022 | **A Differentially Private Indoor Localization Scheme with Fusion of WiFi and Bluetooth Fingerprints in Edge Computing** | LDP, Edge–cloud collaboration | FSELM | Private |
-| 2022 | **3D Geo-Indistinguishability for Indoor Location-Based Services** | GeoInd, Laplace Mechanism | - | Simulated |
-| 2023 | **Indoor Geo-Indistinguishability: Adopting Differential Privacy for Indoor Location Data Protection** | GeoInd, Laplace Mechanism, Distance calculation, RSS Generation | - | Simulated, JUIndoorLoc, CRI |
-| 2023 | **Indoor Semantic Location Privacy Protection With Safe Reinforcement Learning** | GeoInd, Reinforcement learning | - | Simulated |
-| 2024 | **Preserving location privacy against inference attacks in indoor positioning system** | LDP, GeoInd | - | Geolife, Gowalla |
+| Year | Paper | Privacy Method | Localization | Dataset | Paper Link |
+|------|-------|---------------|--------------|---------|---------|
+| 2016 | **Privacy-preserving crowdsourced site survey in WiFi fingerprint-based localization** | CDP, Paillier | kNN | Private | [Link](https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-016-0624-2), [pdf](https://d-nb.info/1099610346/34)|
+| 2017 | **CollabLoc: Privacy-Preserving Multi-Modal Localization via Collaborative Information Fusion** | LDP, Two-step classifier | - | Multi Building, Rutgers Uni | [Link](https://ieeexplore.ieee.org/document/8038390), [pdf](https://www.researchgate.net/publication/319886948_CollabLoc_Privacy-Preserving_Multi-Modal_Localization_via_Collaborative_Information_Fusion)|
+| 2017 | **WiFi fingerprint releasing for indoor localization based on differential privacy** | LDP, Delaunay triangulation, Range generalization | - | Simulated | [Link](https://ieeexplore.ieee.org/document/8292470)|
+| 2018 | **Application of Local Differential Privacy to Collection of Indoor Positioning Data** | LDP, Randomized Response | - | Simulated, Sangmyung Uni | [Link](https://ieeexplore.ieee.org/document/8253434), [pdf](https://www.researchgate.net/publication/322376484_Application_of_Local_Differential_Privacy_to_Collection_of_Indoor_Positioning_Data)|
+| 2018 | **DP3: A Differential Privacy-Based Privacy-Preserving Indoor Localization Mechanism** | CDP, AP fuzzification, Finger Clustering, Finger Permutation | - | PosData | [Link](https://ieeexplore.ieee.org/document/8493532)|
+| 2018 | **P3-LOC: A Privacy-Preserving Paradigm-Driven Framework for Indoor Localization** | LDP, Segmenting Data, $k$-anonymity | - | Private | [Link](https://ieeexplore.ieee.org/document/8542955), [pdf](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/TON_LOC_2018.pdf)|
+| 2019 | **Workload-Aware Indoor Positioning Data Collection via Local Differential Privacy** | LDP, Randomized Encoding | - | Simulated, Beijing Taxi, Trajectory | [Link](https://ieeexplore.ieee.org/document/8736750)|
+| 2022 | **Hide me Behind the Noise: Local Differential Privacy for Indoor Location Privacy** | LDP, Local Hashing, Unary Encoding, Histogram Encoding, Random response, RAPPOR | - | JUIndoorLoc, CRI | [Link](https://ieeexplore.ieee.org/document/9799430), [pdf](https://www.researchgate.net/publication/361729310_Hide_me_Behind_the_Noise_Local_Differential_Privacy_for_Indoor_Location_Privacy)|
+| 2022 | **A Differentially Private Indoor Localization Scheme with Fusion of WiFi and Bluetooth Fingerprints in Edge Computing** | LDP, Edge–cloud collaboration | FSELM | Private | [Link](https://link.springer.com/article/10.1007/s00521-021-06815-9)|
+| 2022 | **3D Geo-Indistinguishability for Indoor Location-Based Services** | GeoInd, Laplace Mechanism | - | Simulated | [Link](https://ieeexplore.ieee.org/document/9646489)|
+| 2023 | **Indoor Geo-Indistinguishability: Adopting Differential Privacy for Indoor Location Data Protection** | GeoInd, Laplace Mechanism, Distance calculation, RSS Generation | - | Simulated, JUIndoorLoc, CRI | [Link](https://ieeexplore.ieee.org/document/10041019)|
+| 2023 | **Indoor Semantic Location Privacy Protection With Safe Reinforcement Learning** | GeoInd, Reinforcement learning | - | Simulated | [Link](https://ieeexplore.ieee.org/document/10171230)|
+| 2024 | **Preserving location privacy against inference attacks in indoor positioning system** | LDP, GeoInd | - | Geolife, Gowalla | [Link](https://link.springer.com/article/10.1007/s12083-023-01609-3)|
 
 
 
