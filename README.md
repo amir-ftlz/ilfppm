@@ -106,27 +106,26 @@ If you feel this repository is helpful, please cite the survey above. -->
 <img src="images/fl.png" alt="Image 1" width="800"/>
 </p>
 
-| Year | Paper Title | Privacy Method | Localization | Dataset |
-|------|-------------|----------------|--------------|---------|
-| 2019 | **FLoc: Fingerprint-Based Indoor Localization System under a Federated Learning Updating Framework** | AutoEncoder | DNN | Private |
-| 2020 | **Pseudo Label-Driven Federated Learning-Based Decentralized Indoor Localization via Mobile Crowdsourcing** | FedAvg | SAEC | UJIIndoorLoc |
-| 2020 | **Federated Learning for RSS Fingerprint-based Localization: A Privacy-Preserving Crowdsourcing Method** | FedAvg | MLP | UJIIndoorLoc |
-| 2021 | **Personalized Federated Learning over non-IID Data for Indoor Localization** | FedAvg, FedAmp, FedAmp-fusion | MLP | UJIIndoorLoc |
-| 2021 | **A Privacy-Preserved Online Personalized Federated Learning Framework for Indoor Localization** | FedAvg, DP | MLP | UJIIndoorLoc, Guangzhou Xinguang, Shopping Mall |
-| 2022 | **Zone-Based Federated Learning in Indoor Positioning** | FedAvg | kNN, MLP, Random Forest | UJIIndoorLoc, CRI |
-| 2022 | **Federated Learning-Based Localization With Heterogeneous Fingerprint Database** | FedAvg | MLP | UJIIndoorLoc |
-| 2022 | **Prediction Based Semi-Supervised Online Personalized Federated Learning for Indoor Localization** | FedAvg, Knowledge distillation, Mixture of Experts | MLP | UJIIndoorLoc, Guangzhou Xinguang, Shopping Mall |
-| 2022 | **Federated Learning for WiFi Fingerprinting** | FedProx | CNN, LSTM | Private |
-| 2022 | **Federated Learning for Indoor Localization via Model Reliability With Dropout** | Monte Carlo Dropout | NN | UJIIndoorLoc |
-| 2022 | **Multi-Level Federated Graph Learning and Self-Attention Based Personalized Wi-Fi Indoor Fingerprint Localization** | Federated Graph Learning | GNN | Guangzhou Xinguang, Shopping Mall |
-| 2023 | **A Federated Learning Framework for Fingerprinting-Based Indoor Localization in Multibuilding and Multifloor Environments** | AutoEncoder | CNN, DNN | UJIIndoorLoc |
-| 2023 | **Confidentiality Preserved Federated Learning for Indoor Localization Using Wi-Fi Fingerprinting** | - | CNN, LSTM | Private |
-| 2023 | **FedHIL: Heterogeneity Resilient Federated Learning for Robust Indoor Localization with Mobile Devices** | AutoEncoder, FedHIL | MLP | Private |
-| 2023 | **FedPos: A Federated Transfer Learning Framework for CSI-Based Wi-Fi Indoor Positioning** | Cloud Feature Extractor, Homomorphic Encryption | CNN | Simulated |
-| 2023 | **Federated KNN-based Privacy-Preserving Position Recommendation for Indoor Consumer Applications** | Discrete Coordinate Encryption, Federated KNN | kNN | Private |
-| 2024 | **A Three-level Federated Learning Framework for CSI Fingerprint based Indoor Localization in Multiple Servers Environment** | Inner Production | CNN | Private |
-| 2024 | **Federated Distillation based Indoor Localization for IoT Networks** | Knowledge distillation, Federated distillation | DNN | Simulated, UJIIndoorLoc |
-| 2024 | **A Three-Level Federated Learning Framework for CSI Fingerprint Based Indoor Localization in Multiple Servers Environment** | FedAvg | CNN | Private |
-| 2024 | **Feature fusion federated learning for privacy-aware indoor localization** | FedAvg, FedSGD | MLP, LSTM | SPAWC |
-| 2024 | **FeMLoc: Federated Meta-learning for Adaptive Wireless Indoor Localization Tasks in IoT Networks** | Transfer Learning, Meta-learning | kNN, SVM | UJIIndoorLoc, Tampere Uni, Uni of Minho |
+| Year | Paper | Privacy Method | Localization | Dataset | Paper Link |
+|------|-------|---------------|--------------|---------|---------|
+| 2019 | **FLoc: Fingerprint-Based Indoor Localization System under a Federated Learning Updating Framework** | AutoEncoder | DNN | Private | [Link](https://ieeexplore.ieee.org/document/9066152)|
+| 2020 | **Pseudo Label-Driven Federated Learning-Based Decentralized Indoor Localization via Mobile Crowdsourcing** | FedAvg | SAEC | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9103044)|
+| 2020 | **Federated Learning for RSS Fingerprint-based Localization: A Privacy-Preserving Crowdsourcing Method** | FedAvg | MLP | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9148111)|
+| 2021 | **Personalized Federated Learning over non-IID Data for Indoor Localization** | FedAvg, FedAmp, FedAmp-fusion | MLP | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9593115), [pdf](https://www.researchgate.net/publication/353171063_Personalized_Federated_Learning_over_non-IID_Data_for_Indoor_Localization)|
+| 2021 | **A Privacy-Preserved Online Personalized Federated Learning Framework for Indoor Localization** | FedAvg, DP | MLP | UJIIndoorLoc, Guangzhou Xinguang, Shopping Mall | [Link](https://ieeexplore.ieee.org/document/9658722)|
+| 2022 | **Zone-Based Federated Learning in Indoor Positioning** | FedAvg | kNN, MLP, Random Forest | UJIIndoorLoc, CRI | [Link](https://ieeexplore.ieee.org/document/9960135), [pdf](https://www.researchgate.net/publication/365869024_Zone-Based_Federated_Learning_in_Indoor_Positioning)|
+| 2022 | **Federated Learning-Based Localization With Heterogeneous Fingerprint Database** | FedAvg | MLP | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9761235), [pdf](https://arxiv.org/pdf/2203.15388)|
+| 2022 | **Prediction Based Semi-Supervised Online Personalized Federated Learning for Indoor Localization** | FedAvg, Knowledge distillation, Mixture of Experts | MLP | UJIIndoorLoc, Guangzhou Xinguang, Shopping Mall | [Link](https://ieeexplore.ieee.org/document/9749277)|
+| 2022 | **Federated Learning for WiFi Fingerprinting** | FedProx | CNN, LSTM | Private | [Link](https://ieeexplore.ieee.org/document/9838945)|
+| 2022 | **Federated Learning for Indoor Localization via Model Reliability With Dropout** | Monte Carlo Dropout | NN | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9764747), [pdf](https://www.researchgate.net/publication/363051449_Federated_Learning_for_Indoor_Localization_via_Model_Reliability_With_Dropout)|
+| 2022 | **Multi-Level Federated Graph Learning and Self-Attention Based Personalized Wi-Fi Indoor Fingerprint Localization** | Federated Graph Learning | GNN | Guangzhou Xinguang, Shopping Mall | [Link](https://ieeexplore.ieee.org/document/9734052)|
+| 2023 | **A Federated Learning Framework for Fingerprinting-Based Indoor Localization in Multibuilding and Multifloor Environments** | AutoEncoder | CNN, DNN | UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/9917443)|
+| 2023 | **Confidentiality Preserved Federated Learning for Indoor Localization Using Wi-Fi Fingerprinting** | - | CNN, LSTM | Private | [Link](https://www.mdpi.com/2075-5309/13/8/2048)|
+| 2023 | **FedHIL: Heterogeneity Resilient Federated Learning for Robust Indoor Localization with Mobile Devices** | AutoEncoder, FedHIL | MLP | Private | [Link](https://dl.acm.org/doi/10.1145/3607919), [pdf](https://arxiv.org/pdf/2307.01780)|
+| 2023 | **FedPos: A Federated Transfer Learning Framework for CSI-Based Wi-Fi Indoor Positioning** | Cloud Feature Extractor, Homomorphic Encryption | CNN | Simulated | [Link](https://ieeexplore.ieee.org/document/10005038), [pdf](https://www.researchgate.net/publication/366815452_FedPos_A_Federated_Transfer_Learning_Framework_for_CSI-Based_Wi-Fi_Indoor_Positioning)|
+| 2023 | **Federated KNN-based Privacy-Preserving Position Recommendation for Indoor Consumer Applications** | Discrete Coordinate Encryption, Federated KNN | kNN | Private | [Link](https://ieeexplore.ieee.org/document/10304302)|
+| 2024 | **A Three-level Federated Learning Framework for CSI Fingerprint based Indoor Localization in Multiple Servers Environment** | Inner Production | CNN | Private | [Link](https://ieeexplore.ieee.org/document/10412104)|
+| 2024 | **Federated Distillation based Indoor Localization for IoT Networks** | Knowledge distillation, Federated distillation | DNN | Simulated, UJIIndoorLoc | [Link](https://ieeexplore.ieee.org/document/10416167), [pdf](https://arxiv.org/pdf/2205.11440)|
+| 2024 | **Feature fusion federated learning for privacy-aware indoor localization** | FedAvg, FedSGD | MLP, LSTM | SPAWC | [Link](https://link.springer.com/article/10.1007/s12083-024-01736-5), [pdf](https://www.researchgate.net/publication/381125287_Feature_fusion_federated_learning_for_privacy-aware_indoor_localization)|
+| 2024 | **FeMLoc: Federated Meta-learning for Adaptive Wireless Indoor Localization Tasks in IoT Networks** | Transfer Learning, Meta-learning | kNN, SVM | UJIIndoorLoc, Tampere Uni, Uni of Minho | [Link](https://ieeexplore.ieee.org/document/10628047), [pdf](https://arxiv.org/pdf/2405.11079)|
 
