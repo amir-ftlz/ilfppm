@@ -37,8 +37,8 @@ If you feel this repository is helpful, please cite the survey above. -->
 
 | Year | Paper | Privacy Method | Localization | Dataset | Paper Link |
 |------|-------|---------------|--------------|---------|---------|
-| 2014 | **Achieving privacy preservation in WiFi fingerprint-based localization** | Paillier | kNN | Simulated, Private | -|
-| 2015 | **A Privacy-Preserving Fuzzy Localization Scheme with CSI Fingerprint** | Paillier | Fuzzy Logic | CRAWDAD | -|
+| 2014 | **Achieving privacy preservation in WiFi fingerprint-based localization** | Paillier | kNN | Simulated, Private | [Link](https://ieeexplore.ieee.org/document/6848178), [pdf](https://nsec.sjtu.edu.cn/publications/2014/Achieving%20Privacy%20Preservation%20in%20WiFi%20Fingerprint-Based%20Localization.pdf)|
+| 2015 | **A Privacy-Preserving Fuzzy Localization Scheme with CSI Fingerprint** | Paillier | Fuzzy Logic | CRAWDAD | [Link](https://ieeexplore.ieee.org/document/7417168), [pdf](https://cse.usf.edu/~yliu21/webresources/?n=pdf/FuzzyGC15.pdf) |
 | 2016 | **Privacy-Preserving Wi-Fi Fingerprinting Indoor Localization** | Paillier | SVM | Private | -|
 | 2018 | **The Death and Rebirth of Privacy-Preserving WiFi Fingerprint Localization with Paillier Encryption** | Paillier, Garbled Circuit | - | - | -|
 | 2018 | **Modeling Privacy in WiFi Fingerprinting Indoor Localization** | Paillier, Garbled Circuit | - | Simulated | -|
