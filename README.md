@@ -7,19 +7,19 @@ These include Cryptographic Models, Anonymization, Differential Privacy, and Fed
 
 This repository serves as a complement to the survey below.
 
-[**A survey and future outlook on indoor location fingerprinting privacy preservation**](https://www.sciencedirect.com/science/article/abs/pii/S1389128625001677?via%3Dihub)
+[**A survey and future outlook on indoor location fingerprinting privacy preservation**](https://www.sciencedirect.com/science/article/abs/pii/S1389128625001677)
 
 ````bibtex
-@article{FATHALIZADEH2025111199,
-title = {A survey and future outlook on indoor location fingerprinting privacy preservation},
-journal = {Computer Networks},
-pages = {111199},
-year = {2025},
-issn = {1389-1286},
-doi = {https://doi.org/10.1016/j.comnet.2025.111199},
-url = {https://www.sciencedirect.com/science/article/pii/S1389128625001677},
-author = {Amir Fathalizadeh and Vahideh Moghtadaiee and Mina Alishahi},
-keywords = {Indoor localization, Location privacy, Privacy-preserving, Location fingerprinting}
+  @article{FATHALIZADEH2025111199,
+  title = {A survey and future outlook on indoor location fingerprinting privacy preservation},
+  journal = {Computer Networks},
+  pages = {111199},
+  year = {2025},
+  issn = {1389-1286},
+  doi = {https://doi.org/10.1016/j.comnet.2025.111199},
+  url = {https://www.sciencedirect.com/science/article/pii/S1389128625001677},
+  author = {Amir Fathalizadeh and Vahideh Moghtadaiee and Mina Alishahi},
+  keywords = {Indoor localization, Location privacy, Privacy-preserving, Location fingerprinting}
 }
 ````
 
