@@ -24,7 +24,7 @@ These include Cryptographic Models, Anonymization, Differential Privacy, and Fed
 If you feel this repository is helpful, please cite the survey above. -->
 
 ## Quick Links
-**Papers sorted by privacy-preserving mechanism:** | [Cryptographic Models](#cryptographic-models) | [Anonymization](#anonymization) | [Differential Privacy](#differential-privacy) | [Federated Learning](#federated-learning) | 
+**Papers sorted by privacy-preserving mechanism:** | [Cryptographic Models](#cryptographic-models-back-to-top) | [Anonymization](#anonymization-back-to-top) | [Differential Privacy](#differential-privacy-back-to-top) | [Federated Learning](#federated-learning-back-to-top) | 
 
 ## Indoor Location Fingerprinting Privacy Preserving Mechanism (ILFPPM)
 
