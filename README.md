@@ -10,7 +10,7 @@ This repository serves as a complement to the survey below.
 [**A survey and future outlook on indoor location fingerprinting privacy preservation**](https://www.sciencedirect.com/science/article/abs/pii/S1389128625001677)
 
 ````bibtex
-  @article{FATHALIZADEH2025111199,
+@article{ftlz2025ilfppm,
   title = {A survey and future outlook on indoor location fingerprinting privacy preservation},
   journal = {Computer Networks},
   pages = {111199},
